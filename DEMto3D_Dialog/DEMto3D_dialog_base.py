@@ -365,7 +365,7 @@ class Ui_DEMto3DDialogBase(object):
         self.groupBox_3.setTitle(_translate("DEMto3DDialogBase", "Model size"))
         self.label_9.setText(_translate("DEMto3DDialogBase", "Spacing (mm):"))
         self.ZScaleDoubleSpinBox.setPrefix(_translate("DEMto3DDialogBase", "x "))
-        self.label_13.setText(_translate("DEMto3DDialogBase", "Lenght (mm):"))
+        self.label_13.setText(_translate("DEMto3DDialogBase", "Length (mm):"))
         self.label_16.setText(_translate("DEMto3DDialogBase", "Vertical exaggeration:"))
         self.label_7.setText(_translate("DEMto3DDialogBase", "Terrain inversion:"))
         self.label18.setText(_translate("DEMto3DDialogBase", "Recommended"))
